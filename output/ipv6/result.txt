@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 10:18:14,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-31 17:06:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -107,6 +107,7 @@ CCTV-10,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cctv10hd265/54/202004
 CCTV-10,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=5559462299&sign=c47bc807c86c69bb6450fd5948ea8af8515df02e7e499737f9814cbcb0bef1ab9648daab88d51ed0d433b7f3606ed281ee3548cb9971e03816305a8dfd95f179ec10e6cf80c9fdbc7210b19b5fb3&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV-10,https://t.freetv.fun/live/cctv-10-1.php
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,https://migu.188766.xyz/?migutoken=896c825aa3f58eea32f21f9f8cc42f2b&id=CCTV11&type=yy
 CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=5559462299&sign=e7d539efe0830e87ec8266a4761f182582914d2fb1e19bc1866bc89b1fc439a5c6e70aa54cbf22739435630abd4c168a44881107685bf2863ff455fb1ebf23facf276b2873655c34830279326e61&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -308,6 +309,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-6.php
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-1.php
 甘肃卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2.php
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
@@ -372,6 +374,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
 山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.php
 山西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
@@ -385,6 +388,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
+四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-10.php
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
@@ -513,7 +517,9 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
+浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
+浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-6.m3u8
@@ -1032,6 +1038,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
@@ -1145,7 +1152,11 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-1.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-3.m3u8
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
+福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
+福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-2.m3u8
