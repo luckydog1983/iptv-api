@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-17 18:13:04,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-20 17:17:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -457,6 +457,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi.m3u8
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-23.m3u8
+广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-5.php
 广东民生,https://hk.188766.xyz/?migutoken=7e07d66d933463289c66db0ddc2e08f9&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
