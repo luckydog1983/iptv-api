@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-27 14:55:43,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-30 16:05:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -885,6 +885,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=41ee41857b194a3296ae21dda65d1e5a&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260520055838&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.188.45&SecurityKey=20260520055838&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bf6bff85e15c8bc5fdfe69d42ed248ce&ddCalcu=ebcfv86a4bl2fadfe8254ed1956ce8fbdcf5&sv=10004&ct=android
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=0b098dacc102233a3be1f329726467de&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260531060158&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.81.250&SecurityKey=20260531060158&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d5a443bd53724f94714ca5f54110929a&ddCalcu=ad95v2aa94l04a131b4d55f357a2c44f1974&sv=10004&ct=android
 宜兴新闻,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260615040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260615040214&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1c6c2a67fecb939c0a86fc4d24fc5c25&sv=10004&ct=android
+宜兴新闻,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260630040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260630040215&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fd7d0718d00c7c10598992bbff2f8c2b&sv=10004&ct=android
 宿迁公共,http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 常州公共,http://iptv.666230.xyz/iptv/jsyd.php/jsczgonggong
 常州生活,http://iptv.666230.xyz/iptv/jsyd.php/jsczshenghuo
